@@ -1,0 +1,10 @@
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\obj\Debug\Pharmacy2U_Technical_Test.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\obj\Debug\Pharmacy2U_Technical_Test.ConversionPanel.resources
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\obj\Debug\Pharmacy2U_Technical_Test.Properties.Resources.resources
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\obj\Debug\Pharmacy2U_Technical_Test.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\obj\Debug\Pharmacy2U_Technical_Test.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\bin\Debug\Pharmacy2U_Technical_Test.exe.config
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\bin\Debug\Pharmacy2U_Technical_Test.exe
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\bin\Debug\Pharmacy2U_Technical_Test.pdb
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\obj\Debug\Pharmacy2U_Technical_Test.exe
+C:\Users\Ben\source\repos\Pharmacy2U_Technical_Test\Pharmacy2U_Technical_Test\obj\Debug\Pharmacy2U_Technical_Test.pdb
